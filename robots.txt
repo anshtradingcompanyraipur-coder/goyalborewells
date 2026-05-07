@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goyalborewells.com/sitemap.xml
